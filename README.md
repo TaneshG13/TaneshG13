@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Tanesh
 ## I'm an unapologetic AI and web enthusiast.
-![I'm an unapologetic AI and web enthusiast.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm an unapologetic AI and web enthusiast.](https://github.com/TaneshG13/TaneshG13/blob/main/Tanesh%20Gujar.png)
 
 A tech explorer currently navigating the terrain of technology while pursuing my Bachelor's in Technology at NMIMS University.
 
