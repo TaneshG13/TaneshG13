@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Tanesh
-#### I'm an unapologetic AI and web enthusiast.
+# Hi there 👋, my name is Tanesh
+## I'm an unapologetic AI and web enthusiast.
 ![I'm an unapologetic AI and web enthusiast.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 A tech explorer currently navigating the terrain of technology while pursuing my Bachelor's in Technology at NMIMS University.
