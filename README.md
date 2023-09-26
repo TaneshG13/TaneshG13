@@ -2,7 +2,7 @@
 ## I'm an unapologetic AI and web enthusiast.
 ![I'm an unapologetic AI and web enthusiast.](https://github.com/TaneshG13/TaneshG13/blob/main/Tanesh%20Gujar.png)
 
-A tech explorer currently navigating the terrain of technology while pursuing my Bachelor's in Technology at NMIMS University.
+I'm a tech explorer currently navigating the terrain of technology while pursuing my Bachelor's in Technology at NMIMS University.
 
 🤖 AI Aficionado
 My fascination with artificial intelligence knows no bounds. I'm captivated by the endless possibilities AI offers and am constantly experimenting with neural networks, machine learning, and data science. My GitHub is where I share the results of my AI adventures.
