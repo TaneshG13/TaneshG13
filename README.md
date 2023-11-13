@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Tanesh
-## I'm an unapologetic AI and web enthusiast.
+## I'm an AI and web enthusiast.
 ![I'm an AI and web enthusiast.](https://github.com/TaneshG13/TaneshG13/blob/main/Tanesh%20Gujar.png)
 
 I'm a tech explorer currently navigating the terrain of technology while pursuing my Bachelor's in Technology at NMIMS University.
