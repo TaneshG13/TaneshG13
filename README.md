@@ -58,3 +58,7 @@
 <img src="https://raw.githubusercontent.com/TaneshG13/TaneshG13/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaneshG13&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+###
