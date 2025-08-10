@@ -1,71 +1,65 @@
-<!-- Profile Header -->
-<h1 align="center">🤖 Tanesh — AI/ML Engineer from India 🇮🇳</h1>
+<!-- Animated Typing SVG -->
 <p align="center">
-  <em>Building intelligent systems, crafting clean code, and exploring the edge of AI.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Tanesh;AI+%26+ML+Engineer;Turning+Data+into+Intelligence;Building+Smart+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=550&lines=AI%2FML+Engineer;Deep+Learning+Explorer;Open+Source+Contributor;Data+Science+Practitioner;Always+Learning+New+Things" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaneshG13&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaneshG13&layout=compact&theme=radical" height="170" />
-</div>
-
----
-
-<!-- Tech Stack -->
-### 🛠️ Tech Arsenal
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="AI Working Animation" />
 </p>
 
 ---
 
-<!-- Connect Section -->
-### 🌐 Connect With Me
+## 🚀 About Me
+Hi, I'm **Tanesh**, an AI/ML Engineer passionate about building intelligent systems that solve real-world problems.  
+From deep learning to data pipelines, I thrive at the intersection of **algorithms, automation, and creativity**.
+
+- 🔭 Currently working on: **CitePro AI Writing Assistant**
+- 🌱 Learning: **Advanced NLP, LLaMA, and Vector Databases**
+- ⚡ Fun fact: I believe coffee is just a compiler for humans.
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanesh-gujar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gujartanesh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/teee.13_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter,numpy,pandas,mysql,mongodb,c,cpp,anaconda,git,linux,vscode" />
 </p>
 
 ---
 
-<!-- Snake Animation -->
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TaneshG13/TaneshG13/output/snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TaneshG13&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaneshG13&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-<!-- Streak Stats -->
+## 🌟 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [CitePro](https://github.com/TaneshG13) | AI-powered academic citation assistant for MS Word | FastAPI, LLaMA, MongoDB |
+| [AMR Gene Classifier](https://github.com/TaneshG13) | ML model predicting antimicrobial resistance | Python, PyTorch, CARD DB |
+| [PDF Metadata Extractor](https://github.com/TaneshG13) | Extracts and structures scientific paper metadata | Python, pdfminer, OpenAlex |
+
+---
+
+## 📚 Research & Publications
+- **"CitePro: AI-Assisted Citation Management"** – *Preprint coming soon*
+- **"Machine Learning Approaches for AMR Gene Detection"** – *In Preparation*
+- **"Optimizing Metadata Extraction Pipelines for Scientific Literature"** – *Drafting*
+
+---
+
+## 📫 Connect with Me
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaneshG13&theme=radical&hide_border=true" />
+  <a href="https://www.instagram.com/teee.13_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:gujartanesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tanesh-gujar/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<!-- Cool GIF -->
+---
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" />
+  <img src="https://komarev.com/ghpvc/?username=TaneshG13&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
