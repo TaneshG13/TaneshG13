@@ -57,7 +57,7 @@ From deep learning to data pipelines, I thrive at the intersection of **algorith
   <a href="https://www.linkedin.com/in/tanesh-gujar/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/GujarTanesh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://medium.com/@your_username"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://https://taneshgujar.vercel.app/"><img src="https://img.shields.io/badge/Website-4E9CAF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://taneshgujar.vercel.app"><img src="https://img.shields.io/badge/Website-4E9CAF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
