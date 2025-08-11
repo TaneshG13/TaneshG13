@@ -38,9 +38,9 @@ From deep learning to data pipelines, I thrive at the intersection of **algorith
 ## 🌟 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Face To Comic Style Transfer]([https://github.com/TaneshG13](https://github.com/TaneshG13/Face-to-Comic-style-transfer-using-Pix2Pix-GAN)) | Human Face to Comic Face Translation using Pix2Pix GAN | GAN, Pythorch, Python |
-| [English To Hindi Translator]([https://github.com/TaneshG13](https://github.com/TaneshG13/English-to-Hindi-Translation-Using-Transformer)) | English to Hindi Neural Machine Translation using Transformer | Python, PyTorch, Transformer |
-| [Comment Toxicity Detection](https://github.com/TaneshG13) | Detects the toxicity in comments and catogorize them | Python, NLP, Tensorflow |
+| [Face To Comic Style Transfer](https://github.com/TaneshG13/Face-to-Comic-style-transfer-using-Pix2Pix-GAN) | Human Face to Comic Face Translation using Pix2Pix GAN | GAN, Pythorch, Python |
+| [English To Hindi Translator](https://github.com/TaneshG13/English-to-Hindi-Translation-Using-Transformer) | English to Hindi Neural Machine Translation using Transformer | Python, PyTorch, Transformer |
+| [Comment Toxicity Detection](https://github.com/TaneshG13/Comment-Toxicity-detection) | Detects the toxicity in comments and catogorize them | Python, NLP, Tensorflow |
 
 ---
 
