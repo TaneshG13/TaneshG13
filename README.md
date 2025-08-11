@@ -38,16 +38,15 @@ From deep learning to data pipelines, I thrive at the intersection of **algorith
 ## 🌟 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [CitePro](https://github.com/TaneshG13) | AI-powered academic citation assistant for MS Word | FastAPI, LLaMA, MongoDB |
-| [AMR Gene Classifier](https://github.com/TaneshG13) | ML model predicting antimicrobial resistance | Python, PyTorch, CARD DB |
-| [PDF Metadata Extractor](https://github.com/TaneshG13) | Extracts and structures scientific paper metadata | Python, pdfminer, OpenAlex |
+| [Face To Comic Style Transfer]([https://github.com/TaneshG13](https://github.com/TaneshG13/Face-to-Comic-style-transfer-using-Pix2Pix-GAN)) | Human Face to Comic Face Translation using Pix2Pix GAN | GAN, Pythorch, Python |
+| [English To Hindi Translator]([https://github.com/TaneshG13](https://github.com/TaneshG13/English-to-Hindi-Translation-Using-Transformer)) | English to Hindi Neural Machine Translation using Transformer | Python, PyTorch, Transformer |
+| [Comment Toxicity Detection](https://github.com/TaneshG13) | Detects the toxicity in comments and catogorize them | Python, NLP, Tensorflow |
 
 ---
 
 ## 📚 Research & Publications
-- **"CitePro: AI-Assisted Citation Management"** – *Preprint coming soon*
+- **"Developing secure and authenticated content using adversarial machine learning."** – *Preprint coming soon*
 - **"Machine Learning Approaches for AMR Gene Detection"** – *In Preparation*
-- **"Optimizing Metadata Extraction Pipelines for Scientific Literature"** – *Drafting*
 
 ---
 
