@@ -5,7 +5,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="AI Working Animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZoeHc2b3RjaWE0d3N5MGp5MWZ0ODhodmFtYWFmOXV5amU5emlnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" alt="AI Working Animation" />
 </p>
 
 ---
