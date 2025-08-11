@@ -27,9 +27,8 @@ From deep learning to data pipelines, I thrive at the intersection of **algorith
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Languages used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaneshG13&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaneshG13&layout=compact&theme=tokyonight" height="150" />
 </p>
 
